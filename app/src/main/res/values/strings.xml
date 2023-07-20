@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title_activity_fullscreen">QuizApp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="question_text">Guess the city in the image above</string>
+    <string name="picture_text">City Pic</string>
+</resources>
